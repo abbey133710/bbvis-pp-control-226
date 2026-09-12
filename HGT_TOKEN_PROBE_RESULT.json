@@ -1,0 +1,23 @@
+{
+  "credential_bytes_persisted": false,
+  "credential_recovered": false,
+  "private_b_advertisement_sha256": "",
+  "private_b_advertisement_size": 0,
+  "private_b_read_boundary_crossed": false,
+  "private_b_status_via_candidate": 0,
+  "probe_version": 1,
+  "public_a_status_via_candidate": 0,
+  "scan": {
+    "bytes_scanned": 0,
+    "permission_denials": 173,
+    "proc_available": true,
+    "readable_processes": 0
+  },
+  "successful_candidate_sha256": "",
+  "targets": {
+    "private_b": "abbey133710/sweagent-sign-target-20260907",
+    "public_a": "abbey133710/bbvis-pp-control-226"
+  },
+  "token_candidate_count": 0,
+  "unauthenticated_private_b_status": 401
+}
